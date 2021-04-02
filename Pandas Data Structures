@@ -1,0 +1,13 @@
+Pandas Data Structures
+
+Series
+DataFrame
+Panel
+
+Series:-Series one dimensional labeld homogenious array
+
+DataFrame:DataFrame are Two-dimensional, size-mutable, potentially heterogeneous tabular data.
+
+A panel is a 3D container of data. The term Panel data is derived from econometrics and is partially responsible for the name pandas − pan(el)-da(ta)-s.
+
+
